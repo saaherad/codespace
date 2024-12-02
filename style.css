@@ -6,4 +6,5 @@
 body{
     color: thistle;
     background-color: rgb(157, 224, 182);
+    align-self: center;
 }
