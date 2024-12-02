@@ -1,6 +1,7 @@
 .heading{
     text-align: center;
     color: palevioletred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 body{
@@ -17,5 +18,5 @@ body{
 }
 
 .container{
-    
+
 }
