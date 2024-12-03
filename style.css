@@ -18,5 +18,13 @@ body{
 }
 
 .container{
-
+        border:2px #004623;
+        position: relative;
+        top: 2px;
+        margin: 15px;
+        padding: 10px;
+        height: 1500px;
+        overflow: hidden;
+        background-color: rgb(249, 249, 249);
+        text-align: center;
 }
